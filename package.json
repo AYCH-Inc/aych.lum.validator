@@ -38,7 +38,7 @@
     "node-fetch": "^2.6.0",
     "nodemon": "^2.0.2",
     "selenium-webdriver": "^4.0.0-alpha.5",
-    "stellar-sdk": "^3.3.0",
+    "stellar-sdk": "^8.2.3",
     "stmux": "^1.8.0",
     "toml": "^3.0.0",
     "utf-8-validate": "^5.0.2"
